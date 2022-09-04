@@ -1,13 +1,13 @@
-Hey there🙋‍♂️, I am DevAlexSanz🖥️🚀
- =================================
- Software Developer and Content Creator
- --------------------------------------
+  Hey there🙋‍♂️, I am DevAlexSanz🖥️🚀
+======================================
+### Software Developer
+--------------------------------------
  
  Hola soy Alexander Zelaya, Actualmente soy estudiante de Ingeniería en sistemas y computación, me apasiona trabajar en equipo y apoyar con mis conocimientos, conllevo una educación autodidacta para mejorar mis habilidades como programador, mis interés en obtener un conocimiento que me permita formarme profesionalmente como Fullstack Software Developer.
  
- *   🌍  I'm based in El Salvador 
+ *     I'm based in El Salvador 
 
- *   🧠  I'm learning React, NodeJS
+ *   🚀  I'm learning React, NodeJS
 
  
  ## Skills
