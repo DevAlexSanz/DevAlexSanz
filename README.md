@@ -14,16 +14,16 @@
  
  ## Markup Languages:
  
- [![My Skills](https://skillicons.dev/icons?i=figma,html,css&perline=4)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=figma,html,css&perline=4)](https://skillicons.dev)
  
  ## Programming Languages:
  
- [![My Skills](https://skillicons.dev/icons?i=py,javascript&perline=4)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=py,javascript&perline=4)](https://skillicons.dev)
  
  ## Frameworks:
  
- [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react&perline=3)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=nodejs,express,react&perline=3)](https://skillicons.dev)
  
  ## IDEs and Tools:
  
- [![My Skills](https://skillicons.dev/icons?i=vite,github,visualstudio,vscode&perline=3)](https://skillicons.dev)
+ (https://skillicons.dev/icons?i=vite,github,visualstudio,vscode&perline=3)](https://skillicons.dev)
