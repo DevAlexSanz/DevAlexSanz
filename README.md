@@ -34,4 +34,4 @@
  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=5)](https://skillicons.dev) 
   
  ## IDEs and Tools 
- [![My Skills](https://skillicons.dev/icons?i=vite,git,github,visualstudio,vscode,docker&perline=3)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=vite,github,visualstudio,vscode&perline=3)](https://skillicons.dev) 
