@@ -1,7 +1,7 @@
 <div align="center">
 
   ![DevAlexSanz](./icons/DevAlexSanz.svg)
-  ![DevAlexSanz](./images/DevAlexSanz.png)
+  ![DevAlexSanz](./images/DevAlexSanz.jpg)
 
   ![SobreMi](./icons/SobreMi.svg)
 
