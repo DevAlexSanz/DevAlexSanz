@@ -25,7 +25,7 @@
 
   ![Habilidades](./icons/Habilidades.svg)
 
-  [![Tecnologias](https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,mysql,babel,docker,github,git,vscode,postman,netlify&perline=3)](https://skillicons.dev)
+  [![Tecnologias](https://skillicons.dev/icons?i=javascript,nodejs,express,typescript,react,postgresql,mui,redux,mongodb,mysql,babel,docker,github,git,vite,vscode,postman,netlify&perline=3)](https://skillicons.dev)
 
   ![Contacto](./icons/Contacto.svg)
 
